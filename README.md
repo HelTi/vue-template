@@ -1,6 +1,6 @@
 # vue-template
 
-> A Vue.js project
+> vue-cli 2.x模版
 
 ## Build Setup
 
